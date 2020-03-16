@@ -1,0 +1,2 @@
+# Django-FlatPages
+Flatpages Implementation
